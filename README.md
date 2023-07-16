@@ -1,0 +1,1 @@
+# Disease_detection_For_CORN_leaf_with_Resnet_Pytorch
