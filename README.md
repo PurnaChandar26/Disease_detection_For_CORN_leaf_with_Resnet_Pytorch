@@ -2,7 +2,7 @@ Disease Detection for Corn Leaf with ResNet PyTorch
 ===================================================
 This repository contains an implementation of a deep learning model using the ResNet architecture in PyTorch for detecting diseases in corn leaves. The model is trained to classify images of corn leaves into different disease categories, helping farmers identify and address potential issues in their crops at an early stage.
 
-<img src="https://github.com/PurnaChandar26/Disease_detection_For_CORN_leaf_with_Resnet_Pytorch/assets/97793147/6cb3a623-c01f-43b2-9b22-5e3d86a63de7" width="900" height="700">
+<img src="https://github.com/PurnaChandar26/Disease_detection_For_CORN_leaf_with_Resnet_Pytorch/assets/97793147/6cb3a623-c01f-43b2-9b22-5e3d86a63de7" width="900" height="500">
 
 
 
@@ -10,7 +10,7 @@ Dataset
 -------
 The dataset used for training and evaluation consists of a large collection of labeled images of corn leaves affected by various diseases, including common issues such as rust, blight, and leaf spot. The dataset is carefully curated and annotated to ensure accurate classification.
 
-<img src="https://github.com/PurnaChandar26/Disease_detection_For_CORN_leaf_with_Resnet_Pytorch/assets/97793147/4acaee3f-83f5-4295-9129-bd06d8d042eb" width="700" height="500">
+<img src="https://github.com/PurnaChandar26/Disease_detection_For_CORN_leaf_with_Resnet_Pytorch/assets/97793147/4acaee3f-83f5-4295-9129-bd06d8d042eb" width="900" height="500">
 
 Model Architecture
 ------------------
