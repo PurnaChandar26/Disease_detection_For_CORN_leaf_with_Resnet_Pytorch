@@ -4,7 +4,6 @@ This repository contains an implementation of a deep learning model using the Re
 
 <img src="https://github.com/PurnaChandar26/Disease_detection_For_CORN_leaf_with_Resnet_Pytorch/assets/97793147/6cb3a623-c01f-43b2-9b22-5e3d86a63de7" width="900" height="500">
  
- 
 
 Dataset
 -------
